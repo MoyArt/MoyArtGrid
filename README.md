@@ -10,8 +10,8 @@ Tenemos disponible lo siguente:
 *Archivo CSS
 
 Tenemos pendiente lo siguiente:
--[]Documentación
--[]html mostrando el grid
--[]Proyecto en idioma ingles
+[]DocumentaciÃ³n
+[]html mostrando el grid
+[]Proyecto en idioma ingles
 
 Conforme se vaya actualizando el proyecto se va a ir actualizando este archivo :grin::triumph:
